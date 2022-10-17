@@ -1,2 +1,2 @@
-# TroopC3
-Website for TroopC3
+# GuildC3
+Website for GuildC3
